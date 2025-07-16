@@ -13,11 +13,18 @@ Forensic Arsenal is a simple and organized collection of digital forensics tools
 
 ## Acquisition Tools
 
-| Tool Name        | Description                                          | OS        | Download Link |
-|------------------|------------------------------------------------------|-----------|----------------|
-| FTK Imager       | A disk imaging tool for creating forensic images.    | Windows   | [Download](https://www.exterro.com/ftk-imager-download) |
-| Magnet Acquire   | Captures images of mobile and computer devices.      | Windows   | [Download](https://www.magnetforensics.com/resources/magnet-acquire/) |
-| RAM Capturer     | Lightweight tool to capture physical memory (RAM).   | Windows   | [Download](https://belkasoft.com/ram-capturer) |
-| DumpIt           | Memory acquisition tool for Windows systems.         | Windows   | [Download](https://www.comae.com/tools) |
-| OSFClone         | Bootable tool to image drives without modifying them.| Linux     | [Download](https://www.osforensics.com/tools/create-disk-images.html) |
+| Tool Name        | Description                                                                 | OS                | Download Link |
+|------------------|-----------------------------------------------------------------------------|-------------------|----------------|
+| FTK Imager       | Creates forensic images and previews data on local drives.                  | Windows           | [Download]([https://www.exterro.com/ftk-imager-download](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81)) |
+| Magnet Acquire   | Captures forensic images of computers and mobile devices.                   | Windows           | [Download]([https://www.magnetforensics.com/resources/magnet-acquire/](https://www.magnetforensics.com/resources/getting-started-magnet-acquire-community-edition/)) |
+| Belkasoft RAM Capturer | Lightweight tool to capture physical memory (RAM).                     | Windows           | [Download](https://belkasoft.com/ram-capturer) |
+| DumpIt           | Command-line tool to acquire full memory dumps.                             | Windows           | [Download](https://www.comae.com/tools) |
+| OSFClone         | Bootable tool to image drives without modifying source disk.                | Linux (bootable)  | [Download](https://www.osforensics.com/tools/create-disk-images.html) |
+| Guymager         | Fast and reliable forensic imaging tool with GUI.                           | Linux             | [Download](https://guymager.sourceforge.net/) |
+| DC3DD            | Enhanced version of dd with hashing support.                                | Linux             | [Download](https://sourceforge.net/projects/dc3dd/) |
+| DD               | Native UNIX/Linux utility to perform raw disk acquisition.                  | Linux/Unix        | Built-in       |
+| Air (Automated Image & Restore) | GUI for dd and dc3dd to make acquisition easier.               | Linux             | [Download](https://sourceforge.net/projects/air-imager/) |
+| Paladin          | Bootable Linux distro packed with acquisition tools.                        | Linux (bootable)  | [Download](https://sumuri.com/software/paladin/) |
+| CAINE            | Linux forensic distro with many acquisition and analysis tools built-in.    | Linux (bootable)  | [Download](https://www.caine-live.net/) |
+
 
