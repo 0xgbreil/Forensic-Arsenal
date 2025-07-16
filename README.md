@@ -15,8 +15,8 @@ Forensic Arsenal is a simple and organized collection of digital forensics tools
 
 | Tool Name        | Description                                                                 | OS                | Download Link |
 |------------------|-----------------------------------------------------------------------------|-------------------|----------------|
-| FTK Imager       | Creates forensic images and previews data on local drives.                  | Windows           | [Download]([https://www.exterro.com/ftk-imager-download](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81)) |
-| Magnet Acquire   | Captures forensic images of computers and mobile devices.                   | Windows           | [Download]([https://www.magnetforensics.com/resources/magnet-acquire/](https://www.magnetforensics.com/resources/getting-started-magnet-acquire-community-edition/)) |
+| FTK Imager       | Creates forensic images and previews data on local drives.                  | Windows           | [Download](https://www.exterro.com/ftk-imager-download](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81)) |
+| Magnet Acquire   | Captures forensic images of computers and mobile devices.                   | Windows           | [Download](https://www.magnetforensics.com/resources/magnet-acquire/](https://www.magnetforensics.com/resources/getting-started-magnet-acquire-community-edition/)) |
 | Belkasoft RAM Capturer | Lightweight tool to capture physical memory (RAM).                     | Windows           | [Download](https://belkasoft.com/ram-capturer) |
 | DumpIt           | Command-line tool to acquire full memory dumps.                             | Windows           | [Download](https://www.comae.com/tools) |
 | OSFClone         | Bootable tool to image drives without modifying source disk.                | Linux (bootable)  | [Download](https://www.osforensics.com/tools/create-disk-images.html) |
