@@ -25,3 +25,21 @@ Forensic Arsenal is a simple and organized collection of digital forensics tools
 | AIR (dd GUI)           | Graphical frontend for dd and dc3dd for easier imaging.                  | Linux             | [Download](https://sourceforge.net/projects/air-imager/) |
 | Paladin                | Bootable Linux distro with preinstalled forensic tools (imaging-focused).| Linux (bootable)  | [Download](https://sumuri.com/software/paladin/) |
 | CAINE                  | Complete Linux forensic environment for acquisition & analysis.          | Linux (bootable)  | [Download](https://www.caine-live.net/) |
+
+
+
+## Analysis Tools
+
+| Tool Name           | Description                                                                 | OS                | Download Link |
+|---------------------|-----------------------------------------------------------------------------|-------------------|----------------|
+| Autopsy             | GUI-based forensic platform to analyze hard drives and smartphones.         | Windows/Linux     | [Download](https://www.autopsy.com/) |
+| Volatility          | Memory forensics framework for analyzing RAM dumps.                         | Windows/Linux     | [Download](https://www.volatilityfoundation.org/) |
+| Registry Explorer   | Browse and analyze Windows Registry hives easily.                           | Windows           | [Download](https://ericzimmerman.github.io/) |
+| ShellBags Explorer  | Analyze user shellbag artifacts to track folder access.                     | Windows           | [Download](https://ericzimmerman.github.io/) |
+| Event Log Explorer  | Tool to view and analyze Windows event logs.                                | Windows           | [Download](https://eventlogxp.com/) |
+| Bulk Extractor      | Scans disk images and extracts emails, URLs, credit card numbers, etc.      | Windows/Linux     | [Download](https://digitalcorpora.org/downloads/bulk_extractor/) |
+| HxD Hex Editor      | Low-level disk editor to inspect and edit binary data.                      | Windows           | [Download](https://mh-nexus.de/en/hxd/) |
+| NetworkMiner        | Passive network packet analyzer and session reassembler.                    | Windows/Linux     | [Download](https://www.netresec.com/?page=NetworkMiner) |
+| PECmd               | Parses Windows prefetch (.pf) files for process execution artifacts.        | Windows           | [Download](https://ericzimmerman.github.io/) |
+| Timeline Explorer   | Visualize CSV-based forensic timelines (from Plaso or other tools).         | Windows           | [Download](https://ericzimmerman.github.io/) |
+
