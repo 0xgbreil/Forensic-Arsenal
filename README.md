@@ -3,6 +3,10 @@
 Forensic Arsenal is a well-organized and growing collection of trusted digital forensics tools.  
 It focuses on data acquisition and analysis, providing verified download links and concise descriptions — all in one place.
 
+<p align="center">
+  <img src="Images/image.png" width="200" alt="Forensic Arsenal Logo">
+</p>
+
 
 ## Categories
 
