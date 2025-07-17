@@ -50,3 +50,8 @@ It focuses on data acquisition and analysis, providing verified download links a
 | PECmd               | Parses Windows prefetch (.pf) files for process execution artifacts.        | Windows           | [Download](https://ericzimmerman.github.io/) |
 | Timeline Explorer   | Visualize CSV-based forensic timelines (from Plaso or other tools).         | Windows           | [Download](https://ericzimmerman.github.io/) |
 
+---
+
+## Contact
+
+For questions, feedback, or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/0xgbreil/).
