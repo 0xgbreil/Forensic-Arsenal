@@ -52,6 +52,9 @@ It focuses on data acquisition and analysis, providing verified download links a
 
 ---
 
-## Contact
+---
 
-For questions, feedback, or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/0xgbreil/).
+## About the Author
+
+This project is created and maintained by [0xgbreil](https://www.linkedin.com/in/0xgbreil/).  
+Feel free to connect on LinkedIn or explore other projects on [GitHub](https://github.com/0xgbreil).
