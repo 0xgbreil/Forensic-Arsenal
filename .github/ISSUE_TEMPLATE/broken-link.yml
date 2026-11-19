@@ -1,0 +1,27 @@
+name: Report a broken link
+description: A link in the README is dead, moved, or points to the wrong page
+title: "[Broken link] "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Broken URL
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement URL (if known)
+      description: Prefer the official site or repository.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: What happens when you open the link (404, redirect, wrong page)?
