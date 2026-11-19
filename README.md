@@ -95,7 +95,7 @@ Tools for capturing disk images, memory, and live-system data.
 
 | Tool | Description | Platform | Type | Link |
 |------|-------------|----------|------|------|
-| FTK Imager | Creates forensic disk images and previews data without altering it. | Windows | GUI / CLI | [Download](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81) |
+| FTK Imager | Creates forensic disk images and previews data without altering it. | Windows | GUI / CLI | [Download](https://www.exterro.com/ftk-product-downloads/) |
 | Magnet Acquire | Captures forensic images of computers and mobile devices. | Windows | GUI | [Download](https://www.magnetforensics.com/resources/getting-started-magnet-acquire-community-edition/) |
 | OSFClone | Bootable tool to image drives without modifying the source disk. | Bootable (Linux) | CLI | [Download](https://www.osforensics.com/tools/create-disk-images.html) |
 | Guymager | Fast forensic imager with a GUI. | Linux | GUI | [Download](https://guymager.sourceforge.io/) |
