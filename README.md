@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Images/image.png" alt="Forensic Arsenal Logo" width="220">
+<img src="Images/banner.svg" alt="Forensic Arsenal – curated DFIR tools" width="100%">
 
 # Forensic Arsenal
 
