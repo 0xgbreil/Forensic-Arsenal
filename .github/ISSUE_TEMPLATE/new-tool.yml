@@ -1,0 +1,54 @@
+name: Suggest a new tool
+description: Propose a DFIR tool for the directory
+title: "[Tool] "
+labels: ["new-tool"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link
+      description: Official website, repository, or verified download page.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      options:
+        - Acquisition and Imaging
+        - Disk and File System Forensics
+        - Memory Forensics
+        - Windows Forensics
+        - Network Forensics
+        - Mobile Forensics
+        - Malware Analysis
+        - Timeline Analysis
+        - Incident Response and Triage
+        - Log Analysis and Detection
+        - Threat Intelligence and IOC Analysis
+        - File Analysis and Utilities
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: One or two sentences.
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Supported platforms
+      description: Only what the official source states.
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should it be included?
